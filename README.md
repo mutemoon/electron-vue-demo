@@ -29,3 +29,12 @@ const baseUrl = `file://${__dirname}/dist/index.html#/`
 npm run package
 打包窗口程序至build目录下
 ```
+
+### 首页
+![首页]()
+
+### 菜单中可以跳转到首选项
+![菜单]()
+
+### 首选项页面中保存设置后，关闭demo后再次打开，就会读取本地配置并设置主题颜色
+![首选项]()
