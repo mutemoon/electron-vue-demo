@@ -31,10 +31,10 @@ npm run package
 ```
 
 ### 首页
-![首页]()
+![首页](https://github.com/mutemoon/electron-vue-demo/blob/main/public/main.png)
 
 ### 菜单中可以跳转到首选项
-![菜单]()
+![菜单](https://github.com/mutemoon/electron-vue-demo/blob/main/public/menu.png)
 
 ### 首选项页面中保存设置后，关闭demo后再次打开，就会读取本地配置并设置主题颜色
-![首选项]()
+![首选项](https://github.com/mutemoon/electron-vue-demo/blob/main/public/options.png)
