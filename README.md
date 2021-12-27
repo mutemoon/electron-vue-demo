@@ -10,7 +10,6 @@ npm install
 npm run serve
 运行本地的http服务器
 
-
 然后在main.js里修改baseUrl的地址为本地服务器的地址
 const baseUrl = `http://localhost:8080/index.html#/`
 
